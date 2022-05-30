@@ -1,0 +1,5 @@
+Cas d'usage ?
+On peut se servir cette faille pour rediriger des utilisateurs vers un faux site pour faire du phising.
+
+Comment l'eviter ?
+Par exemple ils auraient pu faire un array de params possibles, et interdire les autres.
